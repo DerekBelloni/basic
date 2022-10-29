@@ -7,6 +7,7 @@
   <title>Contact Page</title>
 </head>
 <body>
-  <h2>Contact Page</h1>
+  <h2>Contact Page</h2>
+  <a href="{{route('about.page')}}">About</a>
 </body>
 </html>

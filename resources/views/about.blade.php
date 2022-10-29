@@ -6,7 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>About Page</title>
 </head>
-<body>
-  <h2>About Page</h2>
-</body>
+  <body>
+    <h2>About Page</h2>
+    <a href="{{route('contact.page')}}">Contact</a>
+  </body>
 </html>
